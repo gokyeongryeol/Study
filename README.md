@@ -4,7 +4,7 @@
 
 Notes are self-written by referring the following classes, online course, papers: 
  - AI501, Machine learning for AI, KAIST
- - AI505, Optimization for AI, Graduate school of AI, KAIST
+ - AI505, Optimization for AI, KAIST
  - CS285, Deep Reinforcement Learning, UC Berkeley
     - Online course link : http://rail.eecs.berkeley.edu/deeprlcourse/
  - Stochastic Process
