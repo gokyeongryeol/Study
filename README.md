@@ -19,19 +19,18 @@ Notes are self-written by referring the following classes, online course, papers
 Presentation files for regular lab seminar about recent deep learning papers (mostly) accepted in top-tier conference of aritificial intelligence (e.g. ICML, NeurIPs, ICLR).
 
  - Variational Inference
-   - [Gaussian process prior variational autoencoders](./seminar/Gaussian Process Prior Variational Autoencoder.pptx)
-   - [Study on Latent Representation and Clustering](./seminar/Study on Latent Representation and Clustering.pptx)
-   - [Stochastic Neural Networks with Variational Inference](./seminar/Stochastic Neural Networks with Variational Inference.pptx)
-   - [Variational Interaction Information Maximization for Cross-domain Disentanglement](./seminar/Variational Interaction Information Maximization for Cross-domain Disentanglement.pptx)
+   - [Gaussian process prior variational autoencoders](./seminar/Gaussian_Process_Prior_Variational_Autoencoder.pdf)
+   - [Study on Latent Representation and Clustering](./seminar/Study_on_Latent_Representation_and_Clustering.pdf)
+   - [Stochastic Neural Networks with Variational Inference](./seminar/Stochastic_Neural_Networks_with_Variational_Inference.pdf)
+   - [Variational Interaction Information Maximization for Cross-domain Disentanglement](./seminar/Variational_Interaction_Information_Maximization_for_Cross-domain_Disentanglement.pdf)
  - Meta-learning
-   - [Neural Process Family](./seminar/Neural Process Family.pptx)
-   - [The Functional Neural Process](./seminar/The Functional Neural Process.pptx)
-   - [Automated Relational Meta Learning](./seminar/Automated Relational Meta Learning.pptx)
+   - [Neural Process Family](./seminar/Neural_Process_Family.pdf)
+   - [The Functional Neural Process](./seminar/The_Functional_Neural_Process.pdf)
+   - [Automated Relational Meta Learning](./seminar/Automated_Relational_Meta_Learning.pdf)
 - Reinforcement learning
-   - [Never Give Up - Learning Directed Exploration Strategies](Never Give Up - Learning Directed Exploration Strategies.pptx)
-   - [Deep Reinforcement Learning Amidst Lifelong Non-stationarity](Deep Reinforcement Learning Amidst Lifelong Non-stationarity.pptx)
-   - [Soft Q-learning with Mutual Information Regularization](Soft Q-learning with Mutual Information Regularization.pptx)
-
+   - [Never Give Up - Learning Directed Exploration Strategies](./seminar/Never_Give_Up-Learning_Directed_Exploration_Strategies.pdf)
+   - [Deep Reinforcement Learning Amidst Lifelong Non-stationarity](./seminar/Deep_Reinforcement_Learning_Amidst_Lifelong_Non-stationarity.pdf)
+   - [Soft Q-learning with Mutual Information Regularization](./seminar/Soft_Q-learning_with_Mutual_Information_Regularization.pdf)
 
 ## Survey
 
