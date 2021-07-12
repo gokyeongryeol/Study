@@ -16,13 +16,21 @@ Notes are self-written by referring the following classes, online course, papers
 
 ## Seminar
 
-Presentation files for regular lab seminar about recent deep learning research accepted in top-tier conference of aritificial intelligence (e.g. ICML, NeurIPs, ICLR).
-Papers are selected based on the my research intersets:
+Presentation files for regular lab seminar about recent deep learning papers (mostly) accepted in top-tier conference of aritificial intelligence (e.g. ICML, NeurIPs, ICLR).
 
- - Generative Models
  - Variational Inference
+   - [Gaussian process prior variational autoencoders](./seminar/Gaussian Process Prior Variational Autoencoder.pptx)
+   - [Study on Latent Representation and Clustering](./seminar/Study on Latent Representation and Clustering.pptx)
+   - [Stochastic Neural Networks with Variational Inference](./seminar/Stochastic Neural Networks with Variational Inference.pptx)
+   - [Variational Interaction Information Maximization for Cross-domain Disentanglement](./seminar/Variational Interaction Information Maximization for Cross-domain Disentanglement.pptx)
  - Meta-learning
- - Reinforcement learning
+   - [Neural Process Family](./seminar/Neural Process Family.pptx)
+   - [The Functional Neural Process](./seminar/The Functional Neural Process.pptx)
+   - [Automated Relational Meta Learning](./seminar/Automated Relational Meta Learning.pptx)
+- Reinforcement learning
+   - [Never Give Up - Learning Directed Exploration Strategies](Never Give Up - Learning Directed Exploration Strategies.pptx)
+   - [Deep Reinforcement Learning Amidst Lifelong Non-stationarity](Deep Reinforcement Learning Amidst Lifelong Non-stationarity.pptx)
+   - [Soft Q-learning with Mutual Information Regularization](Soft Q-learning with Mutual Information Regularization.pptx)
 
 
 ## Survey
