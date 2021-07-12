@@ -41,4 +41,4 @@ In macroscopic view, these can be categorized into
  - Convolutional Neural Network
  - Recurrent Neural Network
  - Autoencoder
- - Meta-learning
+ - ...
