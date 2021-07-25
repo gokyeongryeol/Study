@@ -31,6 +31,8 @@ Presentation files for regular lab seminar about recent deep learning papers (mo
    - [Never Give Up - Learning Directed Exploration Strategies](./seminar/Never_Give_Up-Learning_Directed_Exploration_Strategies.pdf)
    - [Deep Reinforcement Learning Amidst Lifelong Non-stationarity](./seminar/Deep_Reinforcement_Learning_Amidst_Lifelong_Non-stationarity.pdf)
    - [Soft Q-learning with Mutual Information Regularization](./seminar/Soft_Q-learning_with_Mutual_Information_Regularization.pdf)
+- Optimizer
+   - [Sharpness-Aware Minimization for Efficiently Improving Generalization](./seminar/Sharpness-Aware_Minimization_for_Efficiently_Improving_Generalization.pdf)
 
 ## Survey
 
