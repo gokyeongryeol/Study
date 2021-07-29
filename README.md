@@ -27,6 +27,7 @@ Presentation files for regular lab seminar about recent deep learning papers (mo
    - [Neural Process Family](./seminar/Neural_Process_Family.pdf)
    - [The Functional Neural Process](./seminar/The_Functional_Neural_Process.pdf)
    - [Automated Relational Meta Learning](./seminar/Automated_Relational_Meta_Learning.pdf)
+   - [NeurIPS 2020 paper review](./seminar/NeurIPS_2020_paper_review.pdf)
 - Reinforcement learning
    - [Never Give Up - Learning Directed Exploration Strategies](./seminar/Never_Give_Up-Learning_Directed_Exploration_Strategies.pdf)
    - [Deep Reinforcement Learning Amidst Lifelong Non-stationarity](./seminar/Deep_Reinforcement_Learning_Amidst_Lifelong_Non-stationarity.pdf)
