@@ -24,10 +24,11 @@ Notes are self-written by referring to the following classes, online courses, an
 
 Presentation files for regular lab seminars about recent deep learning papers (mostly) accepted in top-tier conferences (e.g. ICML, NeurIPs, ICLR).
 
- - Data-centric AI
+ - Uncertainty quantification
    - [Ensemble in deep neural network and Uncertainty quantification](./seminar/Ensemble_in_deep_neural_network_and_Uncertainty_quantification.pdf)
    - [Deep Classifiers with Label Noise Modeling and Distance Awareness](./seminar/Deep_Classifiers_with_Label_Noise_Modeling_and_Distance_Awareness.pdf)
    - [Feature Space Particle Inference for Neural Network Ensembles](./seminar/Feature_Space_Particle_Inference_for_Neural_Network_Ensembles.pdf)
+ - Data-centric AI
    - [Adaptive Data Subset Selection](./seminar/Adaptive_Data_Subset_Selection.pdf)
    - [Data Shapley, Equitable Valuation of Data for Machine Learning](./seminar/Data_Shapley_Equitable_Valuation_of_Data_for_Machine_Learning.pdf)
    - [Mitigating noisy labels and dataset bias in machine learning](./seminar/Mitigating_noisy_labels_and_dataset_bias_in_machine_learning.pdf)
